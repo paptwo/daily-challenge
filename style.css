@@ -1,21 +1,21 @@
 /* style.css */
 body{
-  background: rgb(245,245,245);
-  color: green;
-  font-size: 25px;
-  font-family: Helvetica;
+  background: rgb(245,200,245);
+  color: blue;
+  font-size: 30px;
+  font-family: 'Ultra', serif;;
 }
 h1{
   font-family: Courier;
   color: red;
-  font-weight: lighter;
-  font-size: 10px;
+  font-weight: bolder;
+  font-size: 20px;
 }
 h2 {
   font-family: Courier;
-  color: pink;
-  font-weight: lighter;
-  font-size: 8px;
+  color: green;
+  font-weight: bolder;
+  font-size: 15px;
 }
 a {
   color: yellow;
